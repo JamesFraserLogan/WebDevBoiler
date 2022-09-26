@@ -18,7 +18,7 @@ Clone the project from GitHub. One can rename the project by adding one's prefer
 git clone https://github.com/JamesFraserLogan/WebDevBoiler
 ```
 
-Navigate into the cloned directory. Replace "WebDevBoiler" with your preferred name if you renamed the project on pull.
+Navigate into the cloned directory. Replace "WebDevBoiler" with your preferred name if you renamed the project.
 
 ```
 cd WebDevBoiler
